@@ -14,7 +14,7 @@ public class LeapYearCheck {
                         : "Not a Leap Year";
 
         // Display result
-        System.out.println(year + " is a " + result);
+        System.out.println(year + " is " + result);
 
         scanner.close();
     }
